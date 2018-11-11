@@ -1,0 +1,13 @@
+Unity/Build
+Unity/Library
+Unity/obj
+Unity/Packages
+Unity/ProjectSettings
+Unity/.vs
+Unity/.vscode
+Unity/Assets/Scenes
+Unity/Assets/Winter Zone Mini 1.0
+Unity/Temp
+*.csproj
+*.sln
+*.meta
